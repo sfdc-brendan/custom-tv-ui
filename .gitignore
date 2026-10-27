@@ -1,0 +1,13 @@
+build/
+verification/
+.DS_Store
+__pycache__/
+*.pyc
+*.keystore
+*.jks
+*.apk
+*.dex
+*.class
+.env
+.env.*
+!.env.example

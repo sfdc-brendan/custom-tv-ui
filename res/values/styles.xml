@@ -1,0 +1,11 @@
+<resources>
+    <color name="background">#101113</color>
+    <style name="CommandCenterTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">#F1EFE8</item>
+        <item name="android:colorBackground">#101113</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorControlHighlight">#33F1EFE8</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
